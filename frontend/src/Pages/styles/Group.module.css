@@ -1,0 +1,22 @@
+.groupPage{
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+}
+.groupInnerBox{
+    position: absolute;
+    text-align: center;
+    width: 60%;
+    height: 70%;
+    top: 1%;
+    margin-left: 50%;
+    transform: translateY(-50%);
+    transform: translateX(-50%);
+
+    display: flex;
+    flex-direction: column;
+
+}
+
