@@ -1,7 +1,6 @@
 To deploy project:
 1. start Docker
-2. go to the BACKEND_DIRECTORY 
-use command: cd backend
+2. go to the BACKEND_DIRECTORY and use command: cd backend
 3. Start file Docker-file with command:
 docker-compose up
 4.open link in browser:  http://localhost:3000/
